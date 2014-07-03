@@ -1,4 +1,4 @@
-Android开源项目分类汇总
+Android开源项目分类汇总（type1）
 ====================
 
 欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki)或在 [收集&提交页](https://github.com/Trinea/android-open-project/issues/1) 中告诉我，欢迎`Star`、`Fork` :)  
